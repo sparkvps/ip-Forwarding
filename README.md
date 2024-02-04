@@ -14,6 +14,11 @@ Ubuntu 18.04 - Ubuntu 20.04 - Ubuntu 22.04
 <details>
   <summary>Click for Installation</summary>
 Installation
+
+  **1:** Order to update and upgrade the server.
+```
+apt update && apt upgrade -y
+```
 ```
 curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-Forwarding/main/install.sh && bash install.sh
 ```
