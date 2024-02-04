@@ -19,7 +19,7 @@ echo "Select one of the following options"
 echo "   1) Server tunnel"
 echo "   2) Remove the tunnel"
 echo "   3) View the Forwarded IP"
-echo "   3) exit"
+echo "   9) exit"
 read -r -p "Please select one [1-2-3-4]: " -e OPTION
 case $OPTION in
 1)
@@ -50,7 +50,7 @@ sudo iptables -t nat -F
   3)
 iptables -t nat -L --line-numbers
   ;;
-    4)
+    9)
     exit
       ;;
 esac
