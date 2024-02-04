@@ -17,8 +17,9 @@ Installation
 ```
 curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-Forwarding/main/install.sh && bash install.sh
 ```
-<BR>
 </details>
+<BR>
+
 ## SUPPORT THE PROJECT
 
 <details>
