@@ -8,7 +8,9 @@ Easy to sell with <a href="https://github.com/sparkvps/ip-Forwarding">spark vps 
 [![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fwizwizch&color=blue)](https://t.me/sparkvps)
 <BR>
 
-Ubuntu 18.04 - Ubuntu 20.04 - Ubuntu 22.04
+- Ubuntu 18.04
+- Ubuntu 20.04
+- Ubuntu 22.04
 
 ## Installation
 <details>
@@ -32,6 +34,11 @@ apt update && apt upgrade -y
 ```
 curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-Forwarding/main/install.sh && bash install.sh
 ```
+- 1. Server tunnel
+- 2. Remove the tunnel
+- 3. View the Forwarded IP
+- 9. exit 
+
 </details>
 <BR>
 
