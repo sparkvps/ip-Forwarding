@@ -13,7 +13,10 @@ Ubuntu 18.04 - Ubuntu 20.04 - Ubuntu 22.04
 ## Installation
 <details>
   <summary>Click for Installation</summary>
+  <BR> 
+  
 Installation
+<BR>
 
   **1:** Order to update and upgrade the server.
 ```
