@@ -14,13 +14,13 @@ curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-Forwarding/m
 ```
 <BR>
 
-<a href="#">
-  <img width="125" alt="image" src="https://github.com/sparkvps"></a>
-
-
 ## Support the Project
 
-If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
+<details>
+  <summary>Click for Support the Project</summary>
+
+### If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
+
 
 - **Bitcoin (BTC):**
   - Wallet Address: ```bc1q7ndej579qshz6z6lyhm3tvvpml37k0l6m3kjhz```
