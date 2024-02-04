@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Written By: SPARK VPS
+# SPARK VPS
 
 echo " "
 
@@ -14,7 +14,7 @@ echo -e "\e[32m
 ╚═══╝╚╝   ╚╝ ╚╝╚╝╚═╝╚╝╚═╝      ╚╝  ╚╝   ╚═══╝
 \033[0m"
 
-# User must run the script as root
+# root
 if [[ $EUID -ne 0 ]]; then
 	echo "Please run this script as root"
 	exit 1
