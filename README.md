@@ -10,5 +10,5 @@ Easy to sell with <a href="https://github.com/sparkvps/ip-Forwarding">spark vps 
 Installation
 Ubuntu 18.04 - Ubuntu 20.04 - Ubuntu 22.04
 ```
-curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-forward/install.sh && bash install.sh
+curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-Forwarding/main/install.sh && bash install.sh
 ```
