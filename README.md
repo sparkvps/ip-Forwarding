@@ -16,3 +16,5 @@ curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-forward/inst
 curl -o install.sh -L https://github.com/sparkvps/ip-Forwarding/blob/main/install.sh && bash install.sh
 
 curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-Forwarding/blob/main/install.sh && bash install.sh
+
+bash <(curl -s https://raw.githubusercontent.com/wizwizdev/sparkvps/ip-Forwarding/blob/main/install.sh)
