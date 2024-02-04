@@ -34,7 +34,7 @@ echo "   1) Server tunnel"
 echo "   2) Remove the tunnel"
 echo "   3) View the Forwarded IP"
 echo "   9) exit"
-read -r -p "Please select one [1-2-3-4]: " -e OPTION
+read -r -p "Please select one [1-2-3-9]: " -e OPTION
 case $OPTION in
 1)
     echo "net.ipv4.ip_forward=1" >> /etc/sysctl.conf
