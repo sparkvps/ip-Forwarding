@@ -13,19 +13,6 @@ Easy to sell with <a href="https://github.com/sparkvps/ip-Forwarding">spark vps 
 - Ubuntu 22.04
 
 ## Installation
-
-
-  **1:** - Order to update and upgrade the server.
-  
-  ### UPDATE & UPGRADE
-```
-apt update && apt upgrade -y
-```
-<br>
-
-  **2:** - We go to the second server to connect the first server
-
-  ### INSTALLING
 ```
 curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-Forwarding/main/install.sh && bash install.sh
 ```
