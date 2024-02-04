@@ -19,13 +19,16 @@ Installation
 <BR>
 
   **1:** Order to update and upgrade the server.
+  
+  ### UPDATE & UPGRADE
 ```
 apt update && apt upgrade -y
 ```
 <br>
 
-  **1:** We go to the second server to connect the first server
+  **2:** We go to the second server to connect the first server
 
+  ### CODE IP FORWARD
 ```
 curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-Forwarding/main/install.sh && bash install.sh
 ```
