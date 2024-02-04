@@ -22,6 +22,10 @@ Installation
 ```
 apt update && apt upgrade -y
 ```
+<br>
+
+  **1:** We go to the second server to connect the first server
+
 ```
 curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-Forwarding/main/install.sh && bash install.sh
 ```
