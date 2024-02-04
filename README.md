@@ -34,10 +34,10 @@ apt update && apt upgrade -y
 ```
 curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-Forwarding/main/install.sh && bash install.sh
 ```
-- 1. Server tunnel
-- 2. Remove the tunnel
-- 3. View the Forwarded IP
-- 9. exit 
+1. Server tunnel
+2. Remove the tunnel
+3. View the Forwarded IP
+9. exit 
 
 </details>
 <BR>
