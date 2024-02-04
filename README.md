@@ -12,9 +12,3 @@ Ubuntu 18.04 - Ubuntu 20.04 - Ubuntu 22.04
 ```
 curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-forward/install.sh && bash install.sh
 ```
-
-curl -o install.sh -L https://github.com/sparkvps/ip-Forwarding/blob/main/install.sh && bash install.sh
-
-curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/ip-Forwarding/blob/main/install.sh && bash install.sh
-
-bash <(curl -s https://raw.githubusercontent.com/wizwizdev/sparkvps/ip-Forwarding/blob/main/install.sh)
